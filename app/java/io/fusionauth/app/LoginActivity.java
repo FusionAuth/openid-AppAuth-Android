@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package net.openid.appauthdemo;
+package io.fusionauth.app;
 
 import android.annotation.TargetApi;
 import android.app.PendingIntent;
@@ -55,7 +55,7 @@ import net.openid.appauth.ResponseTypeValues;
 import net.openid.appauth.browser.AnyBrowserMatcher;
 import net.openid.appauth.browser.BrowserMatcher;
 import net.openid.appauth.browser.ExactBrowserMatcher;
-import net.openid.appauthdemo.BrowserSelectionAdapter.BrowserInfo;
+import io.fusionauth.app.BrowserSelectionAdapter.BrowserInfo;
 
 import java.util.Collections;
 import java.util.concurrent.CountDownLatch;

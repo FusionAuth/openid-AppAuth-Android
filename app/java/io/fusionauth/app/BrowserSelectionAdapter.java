@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package net.openid.appauthdemo;
+package io.fusionauth.app;
 
 import android.app.Activity;
 import android.app.LoaderManager.LoaderCallbacks;
